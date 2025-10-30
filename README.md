@@ -5,7 +5,7 @@ The endgame here is to evolve into a visually driven, drag-and-drop game creatio
 
 ![Last Commit](https://img.shields.io/github/last-commit/beneathatree/forecaste_v2) 
 ![Top Lang](https://img.shields.io/github/languages/top/beneathatree/forecaste_v2)
-#### Find the app deployed at [demo.forecaste.in](demo.forecaste.in)
+#### Find the app deployed at [demo.forecaste.in](https://demo.forecaste.in)
 
 ## Getting Started
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
