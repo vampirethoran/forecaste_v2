@@ -44,6 +44,6 @@ gsap, tailwind
 
 ## Some Noteworthy Stuff
 
-- To add a new route and thereby extend the story, fork this repository, or open an issue.
+- To add a new route and thereby extend the story, fork this repository or open an issue.
 - Add new routes by creating new folders inside `/app` directory.
 - Find the current game flow [here](https://github.com/beneathatree/forecaste_v2/blob/main/public/images/forecaste_flow.jpeg)
