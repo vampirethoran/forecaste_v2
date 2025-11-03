@@ -11,8 +11,8 @@ export default function AudioManager() {
 
   const audioSrc = useMemo(() => {
     switch (pathname) {
-      case '/':
-        return '/sounds/british-woods-ambient-noise-24942.mp3';
+      // case '/':
+      //   return '/sounds/british-woods-ambient-noise-24942.mp3';
       case '/adjustment':
         return '/sounds/crowd-noise-375725.mp3';
       default:
