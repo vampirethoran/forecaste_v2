@@ -16,7 +16,7 @@ export default function AudioManager() {
       case '/adjustment':
         return '/sounds/crowd-noise-375725.mp3';
       default:
-        return '/sounds/british-woods-ambient-noise-24942.mp3';
+        return '/sounds/crowd-noise-375725.mp3';
     }
   }, [pathname]);
 
